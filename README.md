@@ -1,4 +1,4 @@
-# -java-client-server-system
+# java-client-server-system
 This project is the final coursework submission for COMP1549: Advanced Programming at the University of Greenwich (2023/24). It demonstrates the implementation of a **networked distributed system** using **Java**, following object-oriented programming principles, design patterns, and testing via JUnit.
 
 ## Objective
